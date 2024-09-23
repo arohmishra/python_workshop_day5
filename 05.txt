@@ -1,0 +1,6 @@
+#Write a Python program to get the volume of a sphere with radius six.
+
+
+radius = float(input("enter the radius of the sphere:"))
+area = 4/3 * 3.14 * radius **3
+print(f"area of the sphere is = {area}")
